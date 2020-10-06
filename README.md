@@ -1,2 +1,6 @@
-# merge_conflict
-for lesson 2 tasks
+   # merge_conflict
+
+    1. some text
+    2. some text
+    3. some text
+    4. some text
